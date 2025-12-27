@@ -3,7 +3,7 @@ from os import environ
 
 # API Configuration
 API_ID = int(os.environ.get("API_ID", "27433400"))
-API_HASH = os.environ.get("API_HASH", ""1a286620de5ffe0a7d9b57e604293555)
+API_HASH = os.environ.get("API_HASH", "1a286620de5ffe0a7d9b57e604293555")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 CREDIT = os.environ.get("CREDIT", "〱LPRPDV▕")
@@ -59,6 +59,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
